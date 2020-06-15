@@ -1,0 +1,19 @@
+<db>
+
+ <TABLE>
+<fieldname>billdate</fieldname>
+<fieldtype>93</fieldtype>
+<fieldsize>19</fieldsize>
+</TABLE>
+ <TABLE>
+<fieldname>expyear</fieldname>
+<fieldtype>4</fieldtype>
+<fieldsize>11</fieldsize>
+</TABLE>
+<TABLE>
+<fieldname></fieldname>
+<fieldtype>93</fieldtype>
+<fieldsize>19</fieldsize>
+</TABLE>
+
+</db>
